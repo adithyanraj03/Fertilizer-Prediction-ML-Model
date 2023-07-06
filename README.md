@@ -38,7 +38,7 @@ Contributions to this project are welcome. If you find any issues or have any su
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the <a href="https://github.com/adithyanraj03/Fertilizer-Prediction-ML-Model/blob/main/LICENSE">`LICENSE`<a> file for more information.
 
 ## Acknowledgements
 
